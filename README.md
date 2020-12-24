@@ -1,9 +1,7 @@
-🥳 14 years old 🥳
+###LUA Scripter 2019-2020
 
-👋 I speak: polish, french, italian and english 👋
+###C++ Developer 2018-2020
 
-🎓 I'm learning C++ ; HTML&CSS ; JS ; PHP ; C# 🎓
+###.NET Developer 2019-2020
 
-🇨🇭 I live in Switzerland, but im from Poland 🇵🇱
-
-🤠🤠🤠🤠
+### JavaScript Developer 2020-2020
